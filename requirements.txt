@@ -1,5 +1,8 @@
 tk
 pandas
+openpyxl
 reportlab
 Pillow
 pyinstaller
+folium
+xlrd
