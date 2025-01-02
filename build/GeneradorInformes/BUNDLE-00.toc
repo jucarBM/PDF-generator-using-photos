@@ -1,0 +1,3 @@
+([('GeneradorInformes',
+   '/Users/jucar/Documents/Personales/Azucena/dist/GeneradorInformes',
+   'EXECUTABLE')],)
